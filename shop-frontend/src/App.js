@@ -12,9 +12,6 @@ function App() {
       <div className="App">
         <header className="App-header">
           <Button variant="primary">View details</Button>
-          <Link className="nav-link" to={"/Order-details"}>
-            Login
-          </Link>
         </header>
 
         <Routes>
